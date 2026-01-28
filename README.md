@@ -1,4 +1,5 @@
 # Audifonos
+CURSO DE CODIGO CON JUAN https://codigoconjuan.com/ 
 El sitio web TechPRO fue concebido y desarrollado bajo un enfoque de diseño web moderno, escalable y centrado en la experiencia del usuario, aplicando buenas prácticas de UI/UX y una arquitectura visual clara.
 
 La estructura general se apoya en el uso de CSS Grid y Flexbox, lo que permite una composición adaptable y eficiente en distintos tamaños de pantalla. Desde el header, se establece una jerarquía visual fuerte mediante contraste cromático, tipografías de alto peso visual y un diseño dividido que destaca el producto principal y su propuesta de valor.
